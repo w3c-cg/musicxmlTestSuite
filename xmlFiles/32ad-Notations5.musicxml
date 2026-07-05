@@ -65,40 +65,41 @@
       </note>
     </measure>
     <measure number="2">
-    <note>
-      <pitch>
-        <step>C</step>
-        <octave>3</octave>
-      </pitch>
-      <duration>2</duration>
-      <voice>1</voice>
-      <type>half</type>
-      <stem>up</stem>
-      <notations>
-        <technical>
-          <harmon-mute>
-            <harmon-closed location="bottom">half</harmon-closed>
-          </harmon-mute>
-        </technical>
-      </notations>
-    </note>
-    <note>
-      <pitch>
-        <step>C</step>
-        <octave>3</octave>
-      </pitch>
-      <duration>2</duration>
-      <voice>1</voice>
-      <type>half</type>
-      <stem>up</stem>
-      <notations>
-        <technical>
-          <harmon-mute>
-            <harmon-closed location="left">half</harmon-closed>
-          </harmon-mute>
-        </technical>
-      </notations>
-    </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <technical>
+            <harmon-mute>
+              <harmon-closed location="bottom">half</harmon-closed>
+            </harmon-mute>
+          </technical>
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <technical>
+            <harmon-mute>
+              <harmon-closed location="left">half</harmon-closed>
+            </harmon-mute>
+          </technical>
+        </notations>
+      </note>
+    </measure>
     <measure number="3">
       <note>
         <pitch>
