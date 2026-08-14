@@ -3,11 +3,12 @@
 This is a fork of Lilypond's extensive MusicXML test suite
 developed for testing the `musicxml2ly` program.  Since it is
 useful for lots of music projects that want to support MusicXML,
-it's been forked here with Reinhold Kainhofer's blessing and
-invite contributions of new tests for the future.
+Michael Scott Asato Cuthbert forked it here with Reinhold Kainhofer's blessing.
 
-This test suite [is used by the main MusicXML repository to
-validate the XSD schemas and exercise various other validations](https://github.com/w3c-cg/musicxml/tree/gh-pages/tests).
+In 2026, Michael generously donated it to the
+[W3C Music Notation Community Group](https://www.w3.org/community/music-notation/)
+for ongoing stewardship. This test suite [is currently used by the main MusicXML
+repository to validate the XSD schemas and exercise various other validations](https://github.com/w3c-cg/musicxml/tree/gh-pages/tests).
 
 # Usage
 
@@ -40,5 +41,3 @@ under the MIT License, see LICENSE for more details.
 Free for any use as long as this license remains intact.
 
 Developed 2016–2026 by Michael Scott Asato Cuthbert.
-
-Ongoing development by the [W3C Music Notation Community Group](https://www.w3.org/community/music-notation/).
