@@ -8,7 +8,8 @@ Michael Scott Asato Cuthbert forked it here with Reinhold Kainhofer's blessing.
 In 2026, Michael generously donated it to the
 [W3C Music Notation Community Group](https://www.w3.org/community/music-notation/)
 for ongoing stewardship. This test suite [is currently used by the main MusicXML
-repository to validate the XSD schemas and exercise various other validations](https://github.com/w3c-cg/musicxml/tree/gh-pages/tests).
+repository](https://github.com/w3c-cg/musicxml/tree/gh-pages/tests) to validate
+the XSD schemas and exercise various other validations.
 
 # Usage
 
