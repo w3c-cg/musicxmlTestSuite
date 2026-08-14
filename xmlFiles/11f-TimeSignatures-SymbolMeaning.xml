@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.1 Partwise//EN"
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
                                 "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise version="1.1">
+<score-partwise version="4.0">
   <identification>
     <miscellaneous>
-      <miscellaneous-field name="description">A time signature of 3/8 with the 
-          symbol="cut" attribute and two symbol="single-number" attributes with
-          compound time signatures. Shall the symbol be ignored in this 
-          case?</miscellaneous-field>
+      <miscellaneous-field name="description">Semantically invalid use cases
+          for the ‘symbol’ attribute of &lt;time&gt;.  The actual display is
+          application-dependent.
+
+          This test shows a 3/8 time signature with ‘symbol="cut"’ and a
+          complex 1/8+2/4 time signature with
+          ‘symbol="single-number"’.</miscellaneous-field>
     </miscellaneous>
   </identification>
   <part-list>
@@ -24,7 +27,6 @@
           <fifths>0</fifths>
           <mode>major</mode>
         </key>
-        <!-- known incorrect usage. This is being tested -->
         <time symbol="cut">
           <beats>3</beats>
           <beat-type>8</beat-type>
@@ -45,38 +47,9 @@
         <dot/>
       </note>
     </measure>
-    <!--=========================================================-->
-    <measure number="2">
-      <attributes>
-        <!-- known incorrect usage. This is being tested -->
-        <time symbol="single-number">
-          <beats>3+2</beats>
-          <beat-type>8</beat-type>
-        </time>
-      </attributes>
-      <note>
-        <pitch>
-          <step>B</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>B</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>half</type>
-      </note>
-    </measure>
-    <!--=========================================================-->
+    <!--=======================================================-->
     <measure number="3">
       <attributes>
-        <!-- known incorrect usage. This is being tested -->
         <time symbol="single-number">
           <beats>1</beats>
           <beat-type>8</beat-type>

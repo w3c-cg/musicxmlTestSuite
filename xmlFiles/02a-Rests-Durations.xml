@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise version="3.0">
-  <movement-title>Rest unit test</movement-title>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
+                                "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
   <identification>
     <miscellaneous>
       <miscellaneous-field name="description">All different rest lengths: A
-          two-bar multi-measure rest, a whole rest, a half, etc. until a
-          1024th-rest, then the same with dotted
-          durations.</miscellaneous-field>
+          two-bar multi-measure rest, a whole rest, a half rest, etc., until a
+          1024th-rest, then the same with dotted durations.  The last bar is a
+          full-measure rest with the attribute
+          ‘measure="no"’.</miscellaneous-field>
     </miscellaneous>
   </identification>
   <part-list>
@@ -24,9 +25,9 @@
           <fifths>0</fifths>
           <mode>major</mode>
         </key>
-        <time symbol="common">
-          <beats>4</beats>
-          <beat-type>4</beat-type>
+        <time>
+          <beats>2</beats>
+          <beat-type>2</beat-type>
         </time>
         <clef>
           <sign>G</sign>
@@ -132,27 +133,19 @@
     </measure>
     <!--=======================================================-->
     <measure number="5">
+      <print new-system="yes"/>
+      <attributes>
+        <time>
+          <beats>3</beats>
+          <beat-type>2</beat-type>
+        </time>
+      </attributes>
       <note>
         <rest/>
         <duration>1536</duration>
         <voice>1</voice>
         <type>half</type>
         <dot/>
-      </note>
-      <note>
-        <rest/>
-        <duration>512</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="6">
-      <note>
-        <rest/>
-        <duration>512</duration>
-        <voice>1</voice>
-        <type>quarter</type>
       </note>
       <note>
         <rest/>
@@ -222,6 +215,16 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>1024th</type>
+        <dot/>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="6">
+      <note>
+        <rest measure="no"/>
+        <duration>3072</duration>
+        <voice>1</voice>
+        <type>whole</type>
         <dot/>
       </note>
       <barline location="right">

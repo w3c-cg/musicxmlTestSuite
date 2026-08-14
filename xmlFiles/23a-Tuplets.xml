@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.0 Partwise//EN"
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
                                 "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise>
+<score-partwise version="4.0">
   <identification>
     <miscellaneous>
-      <miscellaneous-field name="description">Some tuplets (3:2, 3:2, 3:2, 4:2, 
-          4:1, 7:3, 6:2) with the default tuplet bracket displaying the number 
-          of actual notes played. The second tuplet does not have a number 
+      <miscellaneous-field name="description">Some tuplets (3:2, 3:2, 3:2, 4:2,
+          4:1, 7:3, 6:2) with the default tuplet bracket displaying the number
+          of actual notes played.  The second tuplet does not have the ‘number’
           attribute set.</miscellaneous-field>
     </miscellaneous>
   </identification>
@@ -25,7 +25,7 @@
           <mode>major</mode>
         </key>
         <time>
-          <beats>4</beats>
+          <beats>14</beats>
           <beat-type>4</beat-type>
         </time>
         <clef>
@@ -123,8 +123,6 @@
           <tuplet type="stop"/>
         </notations>
       </note>
-   </measure>
-   <measure number="2">
       <note>
         <pitch>
           <step>B</step>
@@ -228,8 +226,6 @@
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-    </measure>
-    <measure number="3">
       <note>
         <pitch>
           <step>B</step>
@@ -385,8 +381,6 @@
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-    </measure>
-    <measure number="4">
       <note>
         <pitch>
           <step>A</step>
@@ -470,15 +464,6 @@
         <notations>
           <tuplet number="1" type="stop"/>
         </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>168</duration>
-        <voice>1</voice>
-        <type>half</type>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

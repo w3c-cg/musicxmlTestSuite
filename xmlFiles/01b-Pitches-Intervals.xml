@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.0 Partwise//EN"
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
                                 "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise>
-  <movement-title>Various pitches and interval sizes</movement-title>
+<score-partwise version="4.0">
   <identification>
     <miscellaneous>
-      <miscellaneous-field name="description">All pitch intervals in ascending 
+      <miscellaneous-field name="description">All pitch intervals in ascending
           jump size.</miscellaneous-field>
     </miscellaneous>
   </identification>
@@ -23,7 +22,7 @@
           <fifths>0</fifths>
           <mode>major</mode>
         </key>
-        <time>
+        <time symbol="common">
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
