@@ -5,7 +5,8 @@
   <identification>
     <miscellaneous>
       <miscellaneous-field name="description">All different rest lengths with
-          explicit placement and different clefs.</miscellaneous-field>
+          different clefs and explicit display-step placements, including non-
+          sensical placements within staff spaces instead of lines.</miscellaneous-field>
     </miscellaneous>
   </identification>
   <part-list>
