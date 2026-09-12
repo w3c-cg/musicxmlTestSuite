@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise version="4.0">
+<score-partwise version="4.1">
   <identification>
     <miscellaneous>
       <miscellaneous-field name="description">All different rest lengths with
-          different clefs and explicit display-step placements, including non-
-          sensical placements within staff spaces instead of lines.</miscellaneous-field>
+          different clefs and explicit display-step placements, including ambiguous
+          placements within staff spaces instead of lines.</miscellaneous-field>
     </miscellaneous>
   </identification>
   <part-list>
-    <score-part id="P1">
-      <part-name>MusicXML Part</part-name>
-    </score-part>
+    <score-part id="P1"/>
   </part-list>
-  <!--=========================================================-->
   <part id="P1">
     <measure number="1">
       <attributes>
@@ -39,7 +34,6 @@
         <type>whole</type>
       </note>
     </measure>
-    <!--=======================================================-->
     <measure number="2">
       <note>
         <rest/>
@@ -108,7 +102,6 @@
         <type>1024th</type>
       </note>
     </measure>
-    <!--=======================================================-->
     <measure number="3">
       <print new-system="yes"/>
       <attributes>
@@ -127,7 +120,6 @@
         <type>whole</type>
       </note>
     </measure>
-    <!--=======================================================-->
     <measure number="4">
       <note>
         <rest>
@@ -230,5 +222,4 @@
       </note>
     </measure>
   </part>
-  <!--=========================================================-->
 </score-partwise>
