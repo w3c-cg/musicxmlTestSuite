@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -52,8 +51,7 @@
       </attributes>
       <direction directive="yes" placement="above">
         <direction-type>
-          <words default-y="33"
-                 font-weight="bold">Lento</words>
+          <words default-y="33" font-weight="bold">Lento</words>
         </direction-type>
       </direction>
       <direction placement="above">
@@ -66,7 +64,10 @@
         <offset>4</offset>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>32</duration>
         <voice>1</voice>
         <type>whole</type>
@@ -88,7 +89,10 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>32</duration>
         <voice>1</voice>
         <type>whole</type>

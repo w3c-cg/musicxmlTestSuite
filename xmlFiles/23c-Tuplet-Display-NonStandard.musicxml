@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -266,8 +265,7 @@
           <normal-type>breve</normal-type>
         </time-modification>
         <notations>
-          <tuplet bracket="yes" show-number="both" show-type="actual"
-                  number="1" type="start">
+          <tuplet bracket="yes" show-number="both" show-type="actual" number="1" type="start">
             <tuplet-actual>
               <tuplet-number>7</tuplet-number>
               <tuplet-type>quarter</tuplet-type>
@@ -333,8 +331,7 @@
           <normal-dot/>
         </time-modification>
         <notations>
-          <tuplet bracket="yes" show-number="both" show-type="both"
-                  number="1" type="start">
+          <tuplet bracket="yes" show-number="both" show-type="both" number="1" type="start">
             <tuplet-actual>
               <tuplet-number>7</tuplet-number>
               <tuplet-type>half</tuplet-type>
@@ -402,15 +399,18 @@
           <normal-type>breve</normal-type>
         </time-modification>
         <notations>
-          <tuplet bracket="yes" show-number="both" show-type="actual"
-                  number="1" type="start">
+          <tuplet bracket="yes" show-number="both" show-type="actual" number="1" type="start">
             <tuplet-actual>
               <tuplet-type>quarter</tuplet-type>
-              <tuplet-dot/><tuplet-dot/><tuplet-dot/>
+              <tuplet-dot/>
+              <tuplet-dot/>
+              <tuplet-dot/>
             </tuplet-actual>
             <tuplet-normal>
               <tuplet-type>quarter</tuplet-type>
-              <tuplet-dot/><tuplet-dot/><tuplet-dot/>
+              <tuplet-dot/>
+              <tuplet-dot/>
+              <tuplet-dot/>
             </tuplet-normal>
           </tuplet>
         </notations>
@@ -463,8 +463,7 @@
           <normal-dot/>
         </time-modification>
         <notations>
-          <tuplet bracket="yes" show-number="both" show-type="both"
-                  number="1" type="start">
+          <tuplet bracket="yes" show-number="both" show-type="both" number="1" type="start">
             <tuplet-actual>
               <tuplet-type>half</tuplet-type>
               <tuplet-dot/>
@@ -581,8 +580,7 @@
           <normal-notes>2</normal-notes>
         </time-modification>
         <notations>
-          <tuplet bracket="yes" show-number="both" show-type="both"
-                  number="1" type="start">
+          <tuplet bracket="yes" show-number="both" show-type="both" number="1" type="start">
             <tuplet-actual>
               <tuplet-number>7</tuplet-number>
               <tuplet-type>eighth</tuplet-type>

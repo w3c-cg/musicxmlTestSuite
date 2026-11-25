@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -44,24 +43,19 @@
           </dynamics>
         </direction-type>
         <direction-type>
-          <words default-y="-80"
-                 font-family="Times New Roman"
-                 font-size="10.25"
-                 xml:space="preserve"> </words>
+          <words default-y="-80" font-family="Times New Roman" font-size="10.25" xml:space="preserve"> </words>
         </direction-type>
         <direction-type>
-          <words default-y="-80"
-                 font-family="Times New Roman"
-                 font-size="10.25"
-                 xml:space="preserve"
-                 enclosure="rectangle"
-                 valign="middle">text
+          <words default-y="-80" font-family="Times New Roman" font-size="10.25" xml:space="preserve" enclosure="rectangle" valign="middle">text
 in
 a small box</words>
         </direction-type>
-       </direction>
+      </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>4</duration>
         <voice>1</voice>
         <type>whole</type>

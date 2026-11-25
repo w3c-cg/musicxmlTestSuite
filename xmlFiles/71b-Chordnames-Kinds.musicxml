@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
       <miscellaneous-field name="description">All values of the &lt;kind&gt;
           child element of &lt;harmony&gt; (except
-          ‘other’).</miscellaneous-field> 
+          ‘other’).</miscellaneous-field>
     </miscellaneous>
   </identification>
   <part-list>
     <score-part id="P1">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
   </part-list>
   <!--=========================================================-->
@@ -28,7 +27,6 @@
           <line>2</line>
         </clef>
       </attributes>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -46,7 +44,6 @@
           <text>augmented</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -67,7 +64,6 @@
           <text>seventh</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -85,7 +81,6 @@
           <text>diminished</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -107,7 +102,6 @@
         </lyric>
       </note>
     </measure>
-
     <!--=======================================================-->
     <measure number="2">
       <harmony>
@@ -127,7 +121,6 @@
           <text>dominant</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -148,7 +141,6 @@
           <text>11th</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -169,7 +161,6 @@
           <text>13th</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -191,7 +182,6 @@
         </lyric>
       </note>
     </measure>
-
     <!--=======================================================-->
     <measure number="3">
       <harmony>
@@ -211,7 +201,6 @@
           <text>French</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -229,7 +218,6 @@
           <text>German</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -250,7 +238,6 @@
           <text>diminished</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -269,7 +256,6 @@
         </lyric>
       </note>
     </measure>
-
     <!--=======================================================-->
     <measure number="4">
       <harmony>
@@ -289,7 +275,6 @@
           <text>major</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -310,7 +295,6 @@
           <text>11th</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -331,7 +315,6 @@
           <text>13th</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -353,7 +336,6 @@
         </lyric>
       </note>
     </measure>
-
     <!--=======================================================-->
     <measure number="5">
       <harmony>
@@ -376,7 +358,6 @@
           <text>ninth</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -397,7 +378,6 @@
           <text>seventh</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -418,7 +398,6 @@
           <text>sixth</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -437,7 +416,6 @@
         </lyric>
       </note>
     </measure>
-
     <!--=======================================================-->
     <measure number="6">
       <harmony>
@@ -460,7 +438,6 @@
           <text>11th</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -481,7 +458,6 @@
           <text>13th</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -502,7 +478,6 @@
           <text>ninth</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -524,7 +499,6 @@
         </lyric>
       </note>
     </measure>
-
     <!--=======================================================-->
     <measure number="7">
       <harmony>
@@ -547,7 +521,6 @@
           <text>sixth</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -565,7 +538,6 @@
           <text>Neapolitan</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -583,7 +555,6 @@
           <text>none</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -602,7 +573,6 @@
         </lyric>
       </note>
     </measure>
-
     <!--=======================================================-->
     <measure number="8">
       <harmony>
@@ -622,7 +592,6 @@
           <text>power</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -643,7 +612,6 @@
           <text>fourth</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -664,7 +632,6 @@
           <text>second</text>
         </lyric>
       </note>
-
       <harmony>
         <root>
           <root-step>C</root-step>
@@ -682,7 +649,6 @@
           <text>Tristan</text>
         </lyric>
       </note>
-
       <barline location="right">
         <bar-style>light-heavy</bar-style>
       </barline>

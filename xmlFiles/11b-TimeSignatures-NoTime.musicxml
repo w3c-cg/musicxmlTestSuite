@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -17,7 +16,7 @@
   </identification>
   <part-list>
     <score-part id="P1">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
   </part-list>
   <!--=========================================================-->
@@ -25,21 +24,37 @@
     <measure number="1">
       <attributes>
         <divisions>1</divisions>
-        <key><fifths>0</fifths></key>
+        <key>
+          <fifths>0</fifths>
+        </key>
         <staves>2</staves>
-        <clef number="1"><sign>G</sign><line>2</line></clef>
-        <clef number="2"><sign>F</sign><line>4</line></clef>
+        <clef number="1">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+        <clef number="2">
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
       </attributes>
       <note>
-        <pitch><step>F</step><octave>4</octave></pitch>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
         <duration>4</duration>
         <voice>1</voice>
         <type>whole</type>
         <staff>1</staff>
       </note>
-      <backup><duration>384</duration></backup>
+      <backup>
+        <duration>384</duration>
+      </backup>
       <note>
-        <pitch><step>B</step><octave>2</octave></pitch>
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+        </pitch>
         <duration>4</duration>
         <voice>2</voice>
         <type>whole</type>
@@ -55,15 +70,23 @@
         </time>
       </attributes>
       <note>
-        <pitch><step>F</step><octave>4</octave></pitch>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
         <duration>4</duration>
         <voice>1</voice>
         <type>whole</type>
         <staff>1</staff>
       </note>
-      <backup><duration>384</duration></backup>
+      <backup>
+        <duration>384</duration>
+      </backup>
       <note>
-        <pitch><step>B</step><octave>2</octave></pitch>
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+        </pitch>
         <duration>4</duration>
         <voice>2</voice>
         <type>whole</type>
@@ -83,15 +106,23 @@
         </time>
       </attributes>
       <note>
-        <pitch><step>F</step><octave>4</octave></pitch>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
         <duration>4</duration>
         <voice>1</voice>
         <type>whole</type>
         <staff>1</staff>
       </note>
-      <backup><duration>384</duration></backup>
+      <backup>
+        <duration>384</duration>
+      </backup>
       <note>
-        <pitch><step>B</step><octave>2</octave></pitch>
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+        </pitch>
         <duration>4</duration>
         <voice>2</voice>
         <type>whole</type>

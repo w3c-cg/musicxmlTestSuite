@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -56,17 +55,23 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><text>Adagio</text></lyric>
-        <lyric number="2"><text>long=100</text></lyric>
+        <lyric number="1">
+          <text>Adagio</text>
+        </lyric>
+        <lyric number="2">
+          <text>long=100</text>
+        </lyric>
       </note>
       <direction placement="below">
         <direction-type>
-          <words default-y="-80" font-family="Times New Roman" font-size="10.25"
-                 font-style="italic">molto </words>
+          <words default-y="-80" font-family="Times New Roman" font-size="10.25" font-style="italic">molto </words>
         </direction-type>
         <direction-type>
           <dynamics default-y="-80">
@@ -75,12 +80,19 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><text>molto↓</text></lyric>
-        <lyric number="2"><text>f</text></lyric>
+        <lyric number="1">
+          <text>molto↓</text>
+        </lyric>
+        <lyric number="2">
+          <text>f</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -92,23 +104,27 @@
           </dynamics>
         </direction-type>
         <direction-type>
-          <words default-y="-80" font-family="Times New Roman" font-size="10.25"
-                 font-style="italic" xml:space="preserve"> subito</words>
+          <words default-y="-80" font-family="Times New Roman" font-size="10.25" font-style="italic" xml:space="preserve"> subito</words>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><text>p↓</text></lyric>
-        <lyric number="2"><text>subito</text></lyric>
+        <lyric number="1">
+          <text>p↓</text>
+        </lyric>
+        <lyric number="2">
+          <text>subito</text>
+        </lyric>
       </note>
       <direction placement="above">
         <direction-type>
-          <words default-y="30" font-family="Times New Roman" font-size="10.25"
-                 font-style="italic" enclosure="rectangle"
-                 xml:space="preserve">molto </words>
+          <words default-y="30" font-family="Times New Roman" font-size="10.25" font-style="italic" enclosure="rectangle" xml:space="preserve">molto </words>
         </direction-type>
         <direction-type>
           <dynamics default-y="30">
@@ -117,47 +133,76 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><text>molto f↑</text></lyric>
-        <lyric number="2"><text>(rectangle)</text></lyric>
+        <lyric number="1">
+          <text>molto f↑</text>
+        </lyric>
+        <lyric number="2">
+          <text>(rectangle)</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
     <measure number="3">
       <direction placement="below">
         <direction-type>
-          <dynamics><ppp/></dynamics>
+          <dynamics>
+            <ppp/>
+          </dynamics>
         </direction-type>
         <direction-type>
           <wedge type="crescendo"/>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><syllabic>begin</syllabic><text>ppp↓</text></lyric>
-        <lyric number="2"><syllabic>begin</syllabic><text>cresc.</text></lyric>
+        <lyric number="1">
+          <syllabic>begin</syllabic>
+          <text>ppp↓</text>
+        </lyric>
+        <lyric number="2">
+          <syllabic>begin</syllabic>
+          <text>cresc.</text>
+        </lyric>
       </note>
       <direction placement="below">
         <direction-type>
           <wedge type="stop"/>
         </direction-type>
         <direction-type>
-          <dynamics><fff/></dynamics>
+          <dynamics>
+            <fff/>
+          </dynamics>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><syllabic>end</syllabic><text>to</text></lyric>
-        <lyric number="2"><syllabic>end</syllabic><text>fff↓</text></lyric>
+        <lyric number="1">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric number="2">
+          <syllabic>end</syllabic>
+          <text>fff↓</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -172,12 +217,21 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><syllabic>begin</syllabic><text>cresc.↑</text></lyric>
-        <lyric number="2"><syllabic>begin</syllabic><text>dashes</text></lyric>
+        <lyric number="1">
+          <syllabic>begin</syllabic>
+          <text>cresc.↑</text>
+        </lyric>
+        <lyric number="2">
+          <syllabic>begin</syllabic>
+          <text>dashes</text>
+        </lyric>
       </note>
       <direction placement="above">
         <direction-type>
@@ -193,12 +247,21 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><syllabic>end</syllabic><text>to</text></lyric>
-        <lyric number="2"><syllabic>end</syllabic><text>meno f↑</text></lyric>
+        <lyric number="1">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric number="2">
+          <syllabic>end</syllabic>
+          <text>meno f↑</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -210,12 +273,19 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><text>reh. 12+bis</text></lyric>
-        <lyric number="2"><text>(square)</text></lyric>
+        <lyric number="1">
+          <text>reh. 12+bis</text>
+        </lyric>
+        <lyric number="2">
+          <text>(square)</text>
+        </lyric>
       </note>
       <direction placement="below">
         <direction-type>
@@ -224,12 +294,19 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><text>bold+</text></lyric>
-        <lyric number="2"><text>italic</text></lyric>
+        <lyric number="1">
+          <text>bold+</text>
+        </lyric>
+        <lyric number="2">
+          <text>italic</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -240,11 +317,16 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><text>segno</text></lyric>
+        <lyric number="1">
+          <text>segno</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
@@ -253,12 +335,19 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><text>coda</text></lyric>
-        <lyric number="2"><text>×2</text></lyric>
+        <lyric number="1">
+          <text>coda</text>
+        </lyric>
+        <lyric number="2">
+          <text>×2</text>
+        </lyric>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

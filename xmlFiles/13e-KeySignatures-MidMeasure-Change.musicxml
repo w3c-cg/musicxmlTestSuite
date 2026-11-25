@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise>
   <identification>
     <miscellaneous>
@@ -37,7 +36,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>2s</text></lyric>
+        <lyric number="1">
+          <text>2s</text>
+        </lyric>
       </note>
       <attributes>
         <key>
@@ -52,7 +53,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>2f</text></lyric>
+        <lyric number="1">
+          <text>2f</text>
+        </lyric>
       </note>
       <attributes>
         <key>
@@ -67,7 +70,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>0</text></lyric>
+        <lyric number="1">
+          <text>0</text>
+        </lyric>
       </note>
       <attributes>
         <key>
@@ -82,7 +87,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>7s</text></lyric>
+        <lyric number="1">
+          <text>7s</text>
+        </lyric>
       </note>
     </measure>
   </part>

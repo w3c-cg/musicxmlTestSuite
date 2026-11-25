@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -41,7 +40,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>major</text></lyric>
+        <lyric number="1">
+          <text>major</text>
+        </lyric>
       </note>
       <attributes>
         <key>
@@ -57,7 +58,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>minor</text></lyric>
+        <lyric number="1">
+          <text>minor</text>
+        </lyric>
       </note>
       <attributes>
         <key>
@@ -73,7 +76,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>ionian</text></lyric>
+        <lyric number="1">
+          <text>ionian</text>
+        </lyric>
       </note>
       <attributes>
         <key>
@@ -89,7 +94,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>dorian</text></lyric>
+        <lyric number="1">
+          <text>dorian</text>
+        </lyric>
       </note>
     </measure>
     <measure number="2">
@@ -107,7 +114,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>phrygian</text></lyric>
+        <lyric number="1">
+          <text>phrygian</text>
+        </lyric>
       </note>
       <attributes>
         <key>
@@ -123,7 +132,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>lydian</text></lyric>
+        <lyric number="1">
+          <text>lydian</text>
+        </lyric>
       </note>
       <attributes>
         <key>
@@ -139,7 +150,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>mixolydian</text></lyric>
+        <lyric number="1">
+          <text>mixolydian</text>
+        </lyric>
       </note>
       <attributes>
         <key>
@@ -155,7 +168,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>aeolian</text></lyric>
+        <lyric number="1">
+          <text>aeolian</text>
+        </lyric>
       </note>
     </measure>
     <measure number="3">
@@ -173,7 +188,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>locrian</text></lyric>
+        <lyric number="1">
+          <text>locrian</text>
+        </lyric>
       </note>
       <attributes>
         <key>
@@ -189,7 +206,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>none</text></lyric>
+        <lyric number="1">
+          <text>none</text>
+        </lyric>
       </note>
     </measure>
   </part>

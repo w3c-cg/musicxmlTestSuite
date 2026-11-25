@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <encoding>
@@ -16,7 +15,9 @@
     </miscellaneous>
   </identification>
   <part-list>
-    <score-part id="P1"><part-name>MusicXML Part</part-name></score-part>
+    <score-part id="P1">
+      <part-name>MusicXML Part</part-name>
+    </score-part>
   </part-list>
   <part id="P1">
     <measure number="1">
@@ -101,9 +102,9 @@
         </time-modification>
         <staff>1</staff>
       </note>
-
-      <backup><duration>384</duration></backup>
-
+      <backup>
+        <duration>384</duration>
+      </backup>
       <note>
         <pitch>
           <step>A</step>

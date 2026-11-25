@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -44,7 +43,9 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>normal</text></lyric>
+        <lyric number="1">
+          <text>normal</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -91,8 +92,12 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>slashes,</text></lyric>
-        <lyric number="2"><text>no stem</text></lyric>
+        <lyric number="1">
+          <text>slashes,</text>
+        </lyric>
+        <lyric number="2">
+          <text>no stem</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -146,8 +151,12 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>slashes,</text></lyric>
-        <lyric number="2"><text>with stem</text></lyric>
+        <lyric number="1">
+          <text>slashes,</text>
+        </lyric>
+        <lyric number="2">
+          <text>with stem</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -195,8 +204,12 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>hidden</text></lyric>
-        <lyric number="2"><text>notes</text></lyric>
+        <lyric number="1">
+          <text>hidden</text>
+        </lyric>
+        <lyric number="2">
+          <text>notes</text>
+        </lyric>
       </note>
       <note print-object="no">
         <pitch>
@@ -241,8 +254,12 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>hidden notes,</text></lyric>
-        <lyric number="2"><text>no staff lines</text></lyric>
+        <lyric number="1">
+          <text>hidden notes,</text>
+        </lyric>
+        <lyric number="2">
+          <text>no staff lines</text>
+        </lyric>
       </note>
       <note print-object="no">
         <pitch>
@@ -287,9 +304,15 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>normal</text></lyric>
-        <lyric number="2"><text>settings</text></lyric>
-        <lyric number="3"><text>restored</text></lyric>
+        <lyric number="1">
+          <text>normal</text>
+        </lyric>
+        <lyric number="2">
+          <text>settings</text>
+        </lyric>
+        <lyric number="3">
+          <text>restored</text>
+        </lyric>
       </note>
       <note>
         <pitch>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -37,50 +36,85 @@
         </clef>
       </attributes>
       <figured-bass>
-        <figure><figure-number>3</figure-number></figure>
+        <figure>
+          <figure-number>3</figure-number>
+        </figure>
         <duration>4</duration>
       </figured-bass>
       <note>
-        <pitch><step>G</step><octave>4</octave></pitch>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
         <duration>4</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
       <note>
-        <pitch><step>G</step><octave>4</octave></pitch>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
         <duration>4</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
       <figured-bass>
-        <figure><prefix>sharp</prefix><figure-number>1</figure-number></figure>
-        <figure><prefix>flat</prefix><figure-number>3</figure-number></figure>
-        <figure><prefix>natural</prefix><figure-number>5</figure-number></figure>
+        <figure>
+          <prefix>sharp</prefix>
+          <figure-number>1</figure-number>
+        </figure>
+        <figure>
+          <prefix>flat</prefix>
+          <figure-number>3</figure-number>
+        </figure>
+        <figure>
+          <prefix>natural</prefix>
+          <figure-number>5</figure-number>
+        </figure>
         <duration>6</duration>
       </figured-bass>
       <note>
-        <pitch><step>G</step><octave>4</octave></pitch>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
         <duration>6</duration>
         <voice>1</voice>
         <type>eighth</type>
         <dot/>
       </note>
       <figured-bass parentheses="yes">
-        <figure><figure-number>6</figure-number></figure>
+        <figure>
+          <figure-number>6</figure-number>
+        </figure>
       </figured-bass>
       <note>
-        <pitch><step>G</step><octave>4</octave></pitch>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>16th</type>
       </note>
       <figured-bass>
-        <figure><figure-number>5</figure-number><suffix>slash</suffix></figure>
-        <figure><prefix>flat</prefix><figure-number>127</figure-number><suffix>slash</suffix></figure>
+        <figure>
+          <figure-number>5</figure-number>
+          <suffix>slash</suffix>
+        </figure>
+        <figure>
+          <prefix>flat</prefix>
+          <figure-number>127</figure-number>
+          <suffix>slash</suffix>
+        </figure>
         <duration>8</duration>
       </figured-bass>
       <note>
-        <pitch><step>G</step><octave>4</octave></pitch>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
         <duration>8</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -90,7 +124,10 @@
       <figured-bass>
       </figured-bass>
       <note>
-        <pitch><step>G</step><octave>4</octave></pitch>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
         <duration>8</duration>
         <voice>1</voice>
         <type>quarter</type>
