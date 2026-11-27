@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -15,10 +14,8 @@
     <score-part id="P1">
       <part-name>Music</part-name>
       <part-name-display>
-        <display-text xml:space="preserve" color="#FF0000"
-                      font-size="20">Player </display-text>
-        <display-text color="#0000FF" font-size="8"
-                      font-style="italic">One</display-text>
+        <display-text xml:space="preserve" color="#FF0000" font-size="20">Player </display-text>
+        <display-text color="#0000FF" font-size="8" font-style="italic">One</display-text>
       </part-name-display>
     </score-part>
   </part-list>

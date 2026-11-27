@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -83,12 +82,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -104,12 +103,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -125,12 +124,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -146,12 +145,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -167,12 +166,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -188,12 +187,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -209,12 +208,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -230,12 +229,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -251,12 +250,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -272,12 +271,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -293,12 +292,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -314,12 +313,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -335,12 +334,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -356,12 +355,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -377,12 +376,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -398,12 +397,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -419,12 +418,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -440,12 +439,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -461,12 +460,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>
@@ -482,12 +481,12 @@
       <attributes>
         <divisions>960</divisions>
         <time>
-        <beats>4</beats>
-        <beat-type>4</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
         </time>
         <clef>
-        <sign>G</sign>
-        <line>2</line>
+          <sign>G</sign>
+          <line>2</line>
         </clef>
       </attributes>
       <note>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -53,7 +52,9 @@
     </miscellaneous>
   </identification>
   <part-list>
-    <score-part id="P1"><part-name></part-name></score-part>
+    <score-part id="P1">
+      <part-name/>
+    </score-part>
   </part-list>
   <part id="P1">
     <measure number="1">
@@ -68,7 +69,6 @@
           <line>2</line>
         </clef>
       </attributes>
-
       <note>
         <pitch>
           <step>A</step>
@@ -81,7 +81,6 @@
           <text>A</text>
         </lyric>
       </note>
-
       <note print-leger="no">
         <pitch>
           <step>A</step>
@@ -94,7 +93,6 @@
           <text>B</text>
         </lyric>
       </note>
-
       <note>
         <pitch>
           <step>D</step>
@@ -130,7 +128,6 @@
         <type>quarter</type>
         <dot/>
       </note>
-
       <note print-lyric="no">
         <pitch>
           <step>A</step>
@@ -143,7 +140,6 @@
           <text>D</text>
         </lyric>
       </note>
-
       <note print-object="no">
         <pitch>
           <step>A</step>
@@ -157,7 +153,6 @@
         </lyric>
       </note>
     </measure>
-
     <!--=======================================================-->
     <measure number="2">
       <attributes>
@@ -166,7 +161,6 @@
           <beat-type>8</beat-type>
         </time>
       </attributes>
-
       <note print-object="no" print-leger="yes">
         <pitch>
           <step>A</step>
@@ -179,7 +173,6 @@
           <text>F</text>
         </lyric>
       </note>
-
       <note print-object="no" print-dot="yes">
         <pitch>
           <step>A</step>
@@ -192,7 +185,6 @@
           <text>G</text>
         </lyric>
       </note>
-
       <note print-object="no" print-lyric="yes">
         <pitch>
           <step>A</step>
@@ -206,7 +198,6 @@
         </lyric>
       </note>
     </measure>
-
     <!--=======================================================-->
     <measure number="3">
       <attributes>
@@ -215,7 +206,6 @@
           <beat-type>8</beat-type>
         </time>
       </attributes>
-
       <note>
         <pitch>
           <step>A</step>
@@ -234,7 +224,6 @@
           <text>I3</text>
         </lyric>
       </note>
-
       <note print-lyric="no">
         <pitch>
           <step>A</step>
@@ -253,7 +242,6 @@
           <text>J3</text>
         </lyric>
       </note>
-
       <note print-object="no" print-lyric="yes">
         <pitch>
           <step>A</step>
@@ -272,7 +260,6 @@
           <text>K3</text>
         </lyric>
       </note>
-
       <note print-object="no" print-lyric="no">
         <pitch>
           <step>A</step>
@@ -291,7 +278,6 @@
           <text>L3</text>
         </lyric>
       </note>
-
     </measure>
   </part>
 </score-partwise>

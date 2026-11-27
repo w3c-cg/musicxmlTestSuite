@@ -1,0 +1,57 @@
+name: Lint
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  xml-linters:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v7
+
+    - name: Get latest w3c-cg/musicxml tag
+      id: musicxml-tag
+      run: |
+        TAG=$(git ls-remote --tags --refs https://github.com/w3c-cg/musicxml.git \
+          | awk -F/ '$NF ~ /^v?[0-9]+(\.[0-9]+)*$/ { ver=$NF; sub(/^v/, "", ver); print ver "\t" $NF }' \
+          | sort -t$'\t' -k1,1Vr \
+          | awk 'NR == 1 { print $2 }')
+        if [ -z "$TAG" ]; then
+          TAG=$(git -c versionsort.suffix=- ls-remote --tags --refs --sort=-v:refname https://github.com/w3c-cg/musicxml.git \
+            | awk -F/ 'NR == 1 { print $NF }')
+        fi
+        echo "Latest w3c-cg/musicxml tag: $TAG"
+        test -n "$TAG"
+        echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+
+    - name: Checkout w3c-cg/musicxml schema
+      uses: actions/checkout@v7
+      with:
+        repository: w3c-cg/musicxml
+        ref: ${{ steps.musicxml-tag.outputs.tag }}
+        path: musicxml
+
+    - name: Install xmllint
+      run: |
+        if ! command -v xmllint >/dev/null 2>&1; then
+          sudo apt-get update
+          sudo apt-get install -y libxml2-utils
+        fi
+
+    - name: Validate MusicXML files against schema
+      run: |
+        if [ -f musicxml/schema/catalog.xml ]; then
+          export XML_CATALOG_FILES="$PWD/musicxml/schema/catalog.xml"
+        fi
+        mapfile -t files < <(find xmlFiles -type f \( -name '*.musicxml' -o -name '*.xml' \) ! -name '*.invalid.*' | sort)
+        if [ "${#files[@]}" -eq 0 ]; then
+          echo "No MusicXML files found to validate."
+          exit 1
+        fi
+        echo "Validating ${#files[@]} MusicXML files against musicxml/schema/musicxml.xsd (${{ steps.musicxml-tag.outputs.tag }})..."
+        xmllint --nonet --noout --schema musicxml/schema/musicxml.xsd "${files[@]}"

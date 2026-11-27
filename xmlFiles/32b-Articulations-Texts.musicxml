@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -17,7 +16,7 @@
   </identification>
   <part-list>
     <score-part id="P1">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
   </part-list>
   <part id="P1">
@@ -39,8 +38,7 @@
       </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-x="0" default-y="15" font-size="medium"
-                 font-weight="normal">(0,15) normal, medium ↑</words>
+          <words default-x="0" default-y="15" font-size="medium" font-weight="normal">(0,15) normal, medium ↑</words>
         </direction-type>
       </direction>
       <note>
@@ -54,16 +52,14 @@
       </note>
       <direction placement="below">
         <direction-type>
-          <words default-x="-50" default-y="-100" font-size="medium"
-                 font-weight="bold">(-50,-100) bold, medium ↓</words>
+          <words default-x="-50" default-y="-100" font-size="medium" font-weight="bold">(-50,-100) bold, medium ↓</words>
         </direction-type>
       </direction>
     </measure>
     <measure number="2">
       <direction placement="above">
         <direction-type>
-          <words default-x="50" default-y="35" font-size="large"
-                 font-weight="normal">(50,35) normal, large ↑</words>
+          <words default-x="50" default-y="35" font-size="large" font-weight="normal">(50,35) normal, large ↑</words>
         </direction-type>
       </direction>
       <note>
@@ -77,16 +73,14 @@
       </note>
       <direction placement="below">
         <direction-type>
-          <words default-x="0" default-y="-120" font-size="large"
-                 font-weight="bold">(0,-120) bold, large ↓</words>
+          <words default-x="0" default-y="-120" font-size="large" font-weight="bold">(0,-120) bold, large ↓</words>
         </direction-type>
       </direction>
     </measure>
     <measure number="3">
       <direction placement="above">
         <direction-type>
-          <words default-x="0" default-y="55" font-size="small"
-                 font-weight="normal">(0,55) normal, small ↑</words>
+          <words default-x="0" default-y="55" font-size="small" font-weight="normal">(0,55) normal, small ↑</words>
         </direction-type>
       </direction>
       <note>
@@ -97,14 +91,12 @@
       </note>
       <direction placement="below">
         <direction-type>
-          <words default-x="50" default-y="-140" font-size="small"
-                 font-weight="bold">(50,-140) bold, small ↓</words>
+          <words default-x="50" default-y="-140" font-size="small" font-weight="bold">(50,-140) bold, small ↓</words>
         </direction-type>
       </direction>
       <direction placement="below">
         <direction-type>
-          <words default-x="100" default-y="-160" font-size="small"
-                 color="#FF0000">(100,-160) normal, small, red ↓</words>
+          <words default-x="100" default-y="-160" font-size="small" color="#FF0000">(100,-160) normal, small, red ↓</words>
         </direction-type>
       </direction>
     </measure>

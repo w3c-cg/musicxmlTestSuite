@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -40,11 +39,16 @@
         <kind>major</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>major</text></lyric>
+        <lyric number="1">
+          <text>major</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -53,11 +57,16 @@
         <kind>minor</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>minor</text></lyric>
+        <lyric number="1">
+          <text>minor</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -66,11 +75,16 @@
         <kind>augmented</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>augmented</text></lyric>
+        <lyric number="1">
+          <text>augmented</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -79,11 +93,16 @@
         <kind>diminished</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>diminished</text></lyric>
+        <lyric number="1">
+          <text>diminished</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -95,11 +114,16 @@
         <kind>dominant</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>dominant</text></lyric>
+        <lyric number="1">
+          <text>dominant</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -108,11 +132,16 @@
         <kind>major-seventh</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>major-seventh</text></lyric>
+        <lyric number="1">
+          <text>major-seventh</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -121,11 +150,16 @@
         <kind>minor-seventh</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>minor-seventh</text></lyric>
+        <lyric number="1">
+          <text>minor-seventh</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -134,11 +168,16 @@
         <kind>diminished-seventh</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>diminished-seventh</text></lyric>
+        <lyric number="1">
+          <text>diminished-seventh</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -150,11 +189,16 @@
         <kind>augmented-seventh</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>augmented-seventh</text></lyric>
+        <lyric number="1">
+          <text>augmented-seventh</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -163,11 +207,16 @@
         <kind>half-diminished</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>half-diminished</text></lyric>
+        <lyric number="1">
+          <text>half-diminished</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -176,11 +225,16 @@
         <kind>major-minor</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>major-minor</text></lyric>
+        <lyric number="1">
+          <text>major-minor</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -189,11 +243,16 @@
         <kind>major-sixth</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>major-sixth</text></lyric>
+        <lyric number="1">
+          <text>major-sixth</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -205,11 +264,16 @@
         <kind>minor-sixth</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>minor-sixth</text></lyric>
+        <lyric number="1">
+          <text>minor-sixth</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -218,11 +282,16 @@
         <kind>dominant-ninth</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>dominant-ninth</text></lyric>
+        <lyric number="1">
+          <text>dominant-ninth</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -231,11 +300,16 @@
         <kind>major-ninth</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>major-ninth</text></lyric>
+        <lyric number="1">
+          <text>major-ninth</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -244,11 +318,16 @@
         <kind>minor-ninth</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>minor-ninth</text></lyric>
+        <lyric number="1">
+          <text>minor-ninth</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -260,11 +339,16 @@
         <kind>dominant-11th</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>dominant-11th</text></lyric>
+        <lyric number="1">
+          <text>dominant-11th</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -273,11 +357,16 @@
         <kind>major-11th</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>major-11th</text></lyric>
+        <lyric number="1">
+          <text>major-11th</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -286,11 +375,16 @@
         <kind>minor-11th</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>minor-11th</text></lyric>
+        <lyric number="1">
+          <text>minor-11th</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -299,11 +393,16 @@
         <kind>dominant-13th</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>dominant-13th</text></lyric>
+        <lyric number="1">
+          <text>dominant-13th</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -315,11 +414,16 @@
         <kind>major-13th</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>major-13th</text></lyric>
+        <lyric number="1">
+          <text>major-13th</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -328,11 +432,16 @@
         <kind>minor-13th</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>minor-13th</text></lyric>
+        <lyric number="1">
+          <text>minor-13th</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -341,11 +450,16 @@
         <kind>suspended-second</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>suspended-second</text></lyric>
+        <lyric number="1">
+          <text>suspended-second</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -354,11 +468,16 @@
         <kind>suspended-fourth</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>suspended-fourth</text></lyric>
+        <lyric number="1">
+          <text>suspended-fourth</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -370,11 +489,16 @@
         <kind>Neapolitan</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>Neapolitan</text></lyric>
+        <lyric number="1">
+          <text>Neapolitan</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -383,11 +507,16 @@
         <kind>Italian</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>Italians</text></lyric>
+        <lyric number="1">
+          <text>Italians</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -396,11 +525,16 @@
         <kind>French</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>French</text></lyric>
+        <lyric number="1">
+          <text>French</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -409,12 +543,17 @@
         <kind>German</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-         <lyric number="1"><text>German</text></lyric>
-     </note>
+        <lyric number="1">
+          <text>German</text>
+        </lyric>
+      </note>
     </measure>
     <!--=======================================================-->
     <measure number="8">
@@ -425,11 +564,16 @@
         <kind>pedal</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>pedal</text></lyric>
+        <lyric number="1">
+          <text>pedal</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -438,11 +582,16 @@
         <kind>power</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>power</text></lyric>
+        <lyric number="1">
+          <text>power</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -451,11 +600,16 @@
         <kind>Tristan</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>Tristan</text></lyric>
+        <lyric number="1">
+          <text>Tristan</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -464,11 +618,16 @@
         <kind>other</kind>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>other</text></lyric>
+        <lyric number="1">
+          <text>other</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -482,11 +641,16 @@
         <inversion>2</inversion>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
-        <lyric number="1"><text>Inversion</text></lyric>
+        <lyric number="1">
+          <text>Inversion</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -499,11 +663,16 @@
         </bass>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <lyric number="1"><text>Fbb/C</text></lyric>
+        <lyric number="1">
+          <text>Fbb/C</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -517,11 +686,16 @@
         </bass>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <lyric number="1"><text>G#/D#</text></lyric>
+        <lyric number="1">
+          <text>G#/D#</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -534,7 +708,9 @@
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>C</text></lyric>
+        <lyric number="1">
+          <text>C</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -556,11 +732,16 @@
         </degree>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>C-3+5b</text></lyric>
+        <lyric number="1">
+          <text>C-3+5b</text>
+        </lyric>
       </note>
       <harmony>
         <root>
@@ -579,11 +760,16 @@
         </degree>
       </harmony>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>C-1+6b</text></lyric>
+        <lyric number="1">
+          <text>C-1+6b</text>
+        </lyric>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

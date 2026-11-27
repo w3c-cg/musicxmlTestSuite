@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -783,7 +782,8 @@
     <measure number="20">
       <note>
         <pitch>
-          <step>B</step><octave>4</octave>
+          <step>B</step>
+          <octave>4</octave>
         </pitch>
         <duration>3</duration>
         <voice>1</voice>
@@ -796,7 +796,8 @@
       </note>
       <note>
         <pitch>
-          <step>B</step><octave>4</octave>
+          <step>B</step>
+          <octave>4</octave>
         </pitch>
         <duration>3</duration>
         <voice>1</voice>
@@ -818,7 +819,8 @@
     <measure number="21">
       <note>
         <pitch>
-          <step>B</step><octave>4</octave>
+          <step>B</step>
+          <octave>4</octave>
         </pitch>
         <duration>3</duration>
         <voice>1</voice>
@@ -831,7 +833,8 @@
       </note>
       <note>
         <pitch>
-          <step>B</step><octave>4</octave>
+          <step>B</step>
+          <octave>4</octave>
         </pitch>
         <duration>3</duration>
         <voice>1</voice>
@@ -857,7 +860,10 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>B</step><octave>4</octave></pitch>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
         <duration>3</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -868,7 +874,10 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>B</step><octave>4</octave></pitch>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
         <duration>3</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -879,7 +888,10 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>B</step><octave>4</octave></pitch>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
         <duration>3</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -893,13 +905,19 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>B</step><octave>4</octave></pitch>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
         <duration>3</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
       <note>
-        <pitch><step>B</step><octave>4</octave></pitch>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
         <duration>3</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -910,7 +928,10 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>B</step><octave>4</octave></pitch>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
         <duration>3</duration>
         <voice>1</voice>
         <type>quarter</type>

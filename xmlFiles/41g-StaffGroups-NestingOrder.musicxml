@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -41,10 +40,10 @@
       <group-barline>Mensurstrich</group-barline>
     </part-group>
     <score-part id="P1">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <score-part id="P2">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <part-group number="1" type="stop"/>
     <part-group number="1" type="start">
@@ -52,10 +51,10 @@
       <group-barline>Mensurstrich</group-barline>
     </part-group>
     <score-part id="P3">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <score-part id="P4">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <part-group number="1" type="stop"/>
     <part-group number="2" type="stop"/>
@@ -68,10 +67,10 @@
       <group-barline>Mensurstrich</group-barline>
     </part-group>
     <score-part id="P5">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <score-part id="P6">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <part-group number="1" type="stop"/>
     <part-group number="1" type="start">
@@ -79,10 +78,10 @@
       <group-barline>Mensurstrich</group-barline>
     </part-group>
     <score-part id="P7">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <score-part id="P8">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <part-group number="1" type="stop"/>
     <part-group number="2" type="stop"/>

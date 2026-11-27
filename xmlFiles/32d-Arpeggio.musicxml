@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -10,7 +9,7 @@
   </identification>
   <part-list>
     <score-part id="P1">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
   </part-list>
   <!--=========================================================-->
@@ -30,33 +29,44 @@
       </attributes>
       <note>
         <pitch>
-          <step>C</step><octave>4</octave>
+          <step>C</step>
+          <octave>4</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><arpeggiate/></notations>
-        <lyric number="1"><text>normal</text></lyric>
+        <notations>
+          <arpeggiate/>
+        </notations>
+        <lyric number="1">
+          <text>normal</text>
+        </lyric>
       </note>
       <note>
         <chord/>
         <pitch>
-          <step>E</step><octave>5</octave>
+          <step>E</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><arpeggiate/></notations>
+        <notations>
+          <arpeggiate/>
+        </notations>
       </note>
       <note>
         <chord/>
         <pitch>
-          <step>G</step><octave>5</octave>
+          <step>G</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><arpeggiate/></notations>
+        <notations>
+          <arpeggiate/>
+        </notations>
       </note>
       <note>
         <rest/>
@@ -66,33 +76,44 @@
       </note>
       <note>
         <pitch>
-          <step>C</step><octave>4</octave>
+          <step>C</step>
+          <octave>4</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><arpeggiate direction="up"/></notations>
-        <lyric number="1"><text>up</text></lyric>
+        <notations>
+          <arpeggiate direction="up"/>
+        </notations>
+        <lyric number="1">
+          <text>up</text>
+        </lyric>
       </note>
       <note>
         <chord/>
         <pitch>
-          <step>E</step><octave>5</octave>
+          <step>E</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><arpeggiate direction="up"/></notations>
+        <notations>
+          <arpeggiate direction="up"/>
+        </notations>
       </note>
       <note>
         <chord/>
         <pitch>
-          <step>G</step><octave>5</octave>
+          <step>G</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><arpeggiate direction="up"/></notations>
+        <notations>
+          <arpeggiate direction="up"/>
+        </notations>
       </note>
       <note>
         <rest/>
@@ -105,33 +126,44 @@
     <measure number="2">
       <note>
         <pitch>
-          <step>C</step><octave>4</octave>
+          <step>C</step>
+          <octave>4</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><arpeggiate direction="down"/></notations>
-        <lyric number="1"><text>down</text></lyric>
+        <notations>
+          <arpeggiate direction="down"/>
+        </notations>
+        <lyric number="1">
+          <text>down</text>
+        </lyric>
       </note>
       <note>
         <chord/>
         <pitch>
-          <step>E</step><octave>5</octave>
+          <step>E</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><arpeggiate direction="down"/></notations>
+        <notations>
+          <arpeggiate direction="down"/>
+        </notations>
       </note>
       <note>
         <chord/>
         <pitch>
-          <step>G</step><octave>5</octave>
+          <step>G</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><arpeggiate direction="down"/></notations>
+        <notations>
+          <arpeggiate direction="down"/>
+        </notations>
       </note>
       <note>
         <rest/>
@@ -141,19 +173,27 @@
       </note>
       <note>
         <pitch>
-          <step>C</step><octave>4</octave>
+          <step>C</step>
+          <octave>4</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><non-arpeggiate type="bottom"/></notations>
-        <lyric number="1"><text>arpeggio</text></lyric>
-        <lyric number="2"><text>bracket</text></lyric>
+        <notations>
+          <non-arpeggiate type="bottom"/>
+        </notations>
+        <lyric number="1">
+          <text>arpeggio</text>
+        </lyric>
+        <lyric number="2">
+          <text>bracket</text>
+        </lyric>
       </note>
       <note>
         <chord/>
         <pitch>
-          <step>E</step><octave>5</octave>
+          <step>E</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -162,12 +202,15 @@
       <note>
         <chord/>
         <pitch>
-          <step>G</step><octave>5</octave>
+          <step>G</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><non-arpeggiate type="top"/></notations>
+        <notations>
+          <non-arpeggiate type="top"/>
+        </notations>
       </note>
       <note>
         <rest/>
@@ -180,33 +223,44 @@
     <measure number="3">
       <note>
         <pitch>
-          <step>C</step><octave>4</octave>
+          <step>C</step>
+          <octave>4</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>partial</text></lyric>
-        <lyric number="2"><text>arpeggio</text></lyric>
+        <lyric number="1">
+          <text>partial</text>
+        </lyric>
+        <lyric number="2">
+          <text>arpeggio</text>
+        </lyric>
       </note>
       <note>
         <chord/>
         <pitch>
-          <step>E</step><octave>5</octave>
+          <step>E</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><arpeggiate/></notations>
+        <notations>
+          <arpeggiate/>
+        </notations>
       </note>
       <note>
         <chord/>
         <pitch>
-          <step>G</step><octave>5</octave>
+          <step>G</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><arpeggiate/></notations>
+        <notations>
+          <arpeggiate/>
+        </notations>
       </note>
       <note>
         <rest/>
@@ -216,34 +270,47 @@
       </note>
       <note>
         <pitch>
-          <step>C</step><octave>4</octave>
+          <step>C</step>
+          <octave>4</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>partial</text></lyric>
-        <lyric number="2"><text>arpeggio</text></lyric>
-        <lyric number="3"><text>bracket</text></lyric>
+        <lyric number="1">
+          <text>partial</text>
+        </lyric>
+        <lyric number="2">
+          <text>arpeggio</text>
+        </lyric>
+        <lyric number="3">
+          <text>bracket</text>
+        </lyric>
       </note>
       <note>
         <chord/>
         <pitch>
-          <step>E</step><octave>5</octave>
+          <step>E</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><non-arpeggiate type="bottom"/></notations>
+        <notations>
+          <non-arpeggiate type="bottom"/>
+        </notations>
       </note>
       <note>
         <chord/>
         <pitch>
-          <step>G</step><octave>5</octave>
+          <step>G</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <notations><non-arpeggiate type="top"/></notations>
+        <notations>
+          <non-arpeggiate type="top"/>
+        </notations>
       </note>
       <note>
         <rest/>

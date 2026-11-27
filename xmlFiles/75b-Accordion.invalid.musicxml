@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="2.0">
   <identification>
     <miscellaneous>
@@ -16,7 +15,7 @@
   </identification>
   <part-list>
     <score-part id="P1">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
   </part-list>
   <!--=========================================================-->
@@ -40,68 +39,87 @@
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
-              <accordion-middle/>
-              <accordion-low/>
+            <accordion-high/>
+            <accordion-middle/>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>empty M</text></lyric>
+        <lyric number="1">
+          <text>empty M</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
-              <accordion-middle>test</accordion-middle>
-              <accordion-low/>
+            <accordion-high/>
+            <accordion-middle>test</accordion-middle>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>inval.M</text></lyric>
+        <lyric number="1">
+          <text>inval.M</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
-              <accordion-middle>0</accordion-middle>
-              <accordion-low/>
+            <accordion-high/>
+            <accordion-middle>0</accordion-middle>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>M=0</text></lyric>
+        <lyric number="1">
+          <text>M=0</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
-              <accordion-middle>5</accordion-middle>
-              <accordion-low/>
+            <accordion-high/>
+            <accordion-middle>5</accordion-middle>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>M=5</text></lyric>
+        <lyric number="1">
+          <text>M=5</text>
+        </lyric>
       </note>
-      
       <barline location="right">
         <bar-style>light-heavy</bar-style>
       </barline>

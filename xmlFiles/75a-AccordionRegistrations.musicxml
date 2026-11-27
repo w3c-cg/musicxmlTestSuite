@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -10,7 +9,7 @@
   </identification>
   <part-list>
     <score-part id="P1">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
   </part-list>
   <!--=========================================================-->
@@ -41,231 +40,306 @@
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-low/>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>0/0/1</text></lyric>
+        <lyric number="1">
+          <text>0/0/1</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-middle>1</accordion-middle>
+            <accordion-middle>1</accordion-middle>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>0/1/0</text></lyric>
+        <lyric number="1">
+          <text>0/1/0</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-middle>1</accordion-middle>
-              <accordion-low/>
+            <accordion-middle>1</accordion-middle>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>0/1/1</text></lyric>
+        <lyric number="1">
+          <text>0/1/1</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-middle>2</accordion-middle>
+            <accordion-middle>2</accordion-middle>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>0/2/0</text></lyric>
+        <lyric number="1">
+          <text>0/2/0</text>
+        </lyric>
       </note>
     </measure>
     <measure number="2">
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-middle>2</accordion-middle>
-              <accordion-low/>
+            <accordion-middle>2</accordion-middle>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>0/2/1</text></lyric>
+        <lyric number="1">
+          <text>0/2/1</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-middle>3</accordion-middle>
+            <accordion-middle>3</accordion-middle>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>0/3/0</text></lyric>
+        <lyric number="1">
+          <text>0/3/0</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-middle>3</accordion-middle>
-              <accordion-low/>
+            <accordion-middle>3</accordion-middle>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>0/3/1</text></lyric>
+        <lyric number="1">
+          <text>0/3/1</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
-              <accordion-low/>
+            <accordion-high/>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>1/0/1</text></lyric>
+        <lyric number="1">
+          <text>1/0/1</text>
+        </lyric>
       </note>
     </measure>
     <measure number="3">
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
+            <accordion-high/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>1/0/0</text></lyric>
+        <lyric number="1">
+          <text>1/0/0</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
-              <accordion-middle>1</accordion-middle>
+            <accordion-high/>
+            <accordion-middle>1</accordion-middle>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>1/1/0</text></lyric>
+        <lyric number="1">
+          <text>1/1/0</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
-              <accordion-middle>1</accordion-middle>
-              <accordion-low/>
+            <accordion-high/>
+            <accordion-middle>1</accordion-middle>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>1/1/1</text></lyric>
+        <lyric number="1">
+          <text>1/1/1</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
-              <accordion-middle>2</accordion-middle>
+            <accordion-high/>
+            <accordion-middle>2</accordion-middle>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>1/2/0</text></lyric>
+        <lyric number="1">
+          <text>1/2/0</text>
+        </lyric>
       </note>
     </measure>
     <measure number="4">
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
-              <accordion-middle>2</accordion-middle>
-              <accordion-low/>
+            <accordion-high/>
+            <accordion-middle>2</accordion-middle>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>1/2/1</text></lyric>
+        <lyric number="1">
+          <text>1/2/1</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
-              <accordion-middle>3</accordion-middle>
+            <accordion-high/>
+            <accordion-middle>3</accordion-middle>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>1/3/0</text></lyric>
+        <lyric number="1">
+          <text>1/3/0</text>
+        </lyric>
       </note>
       <direction>
         <direction-type>
           <accordion-registration>
-              <accordion-high/>
-              <accordion-middle>3</accordion-middle>
-              <accordion-low/>
+            <accordion-high/>
+            <accordion-middle>3</accordion-middle>
+            <accordion-low/>
           </accordion-registration>
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>1/3/1</text></lyric>
+        <lyric number="1">
+          <text>1/3/1</text>
+        </lyric>
       </note>
       <!-- Special cases: No accordion-(high|middle|low) given, empty middle,
            middle with invalid value, middle with 0 -->
@@ -276,11 +350,16 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <lyric number="1"><text>empty</text></lyric>
+        <lyric number="1">
+          <text>empty</text>
+        </lyric>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

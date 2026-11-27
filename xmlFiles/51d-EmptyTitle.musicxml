@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <work>
-    <work-number></work-number>
-    <work-title></work-title>
+    <work-number/>
+    <work-title/>
   </work>
-  <movement-number></movement-number>
+  <movement-number/>
   <movement-title>Empty work-title, non-empty movement-title</movement-title>
   <identification>
     <miscellaneous>

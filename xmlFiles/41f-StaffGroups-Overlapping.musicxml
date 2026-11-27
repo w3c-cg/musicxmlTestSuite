@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -19,10 +18,10 @@
       <group-barline>yes</group-barline>
     </part-group>
     <score-part id="P1">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <score-part id="P2">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <part-group number="2" type="start">
       <group-name>Group 2</group-name>
@@ -31,14 +30,14 @@
       <group-barline>yes</group-barline>
     </part-group>
     <score-part id="P3">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <score-part id="P4">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <part-group number="1" type="stop"/>
     <score-part id="P5">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
     <part-group number="2" type="stop"/>
   </part-list>

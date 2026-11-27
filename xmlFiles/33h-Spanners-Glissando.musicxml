@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -13,7 +12,7 @@
   </identification>
   <part-list>
     <score-part id="P1">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
   </part-list>
   <!--=========================================================-->
@@ -42,7 +41,9 @@
         <notations>
           <glissando number="1" type="start"/>
         </notations>
-        <lyric number="1"><text>default</text></lyric>
+        <lyric number="1">
+          <text>default</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -55,7 +56,9 @@
         <notations>
           <glissando number="1" type="stop"/>
         </notations>
-        <lyric number="1"><text>glissando</text></lyric>
+        <lyric number="1">
+          <text>glissando</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -68,7 +71,9 @@
         <notations>
           <glissando line-type="solid" number="1" type="start">text</glissando>
         </notations>
-        <lyric number="1"><text>solid</text></lyric>
+        <lyric number="1">
+          <text>solid</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -81,7 +86,9 @@
         <notations>
           <glissando line-type="solid" number="1" type="stop"/>
         </notations>
-        <lyric number="1"><text>(+text)</text></lyric>
+        <lyric number="1">
+          <text>(+text)</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -97,7 +104,9 @@
         <notations>
           <glissando line-type="dashed" number="1" type="start"/>
         </notations>
-        <lyric number="1"><text>dashed</text></lyric>
+        <lyric number="1">
+          <text>dashed</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -122,7 +131,9 @@
         <notations>
           <glissando line-type="dotted" number="1" type="start"/>
         </notations>
-        <lyric number="1"><text>dotted</text></lyric>
+        <lyric number="1">
+          <text>dotted</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -150,7 +161,9 @@
         <notations>
           <glissando line-type="wavy" number="1" type="start"/>
         </notations>
-        <lyric number="1"><text>wavy</text></lyric>
+        <lyric number="1">
+          <text>wavy</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -175,7 +188,9 @@
         <notations>
           <slide number="1" type="start"/>
         </notations>
-        <lyric number="1"><text>default</text></lyric>
+        <lyric number="1">
+          <text>default</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -188,7 +203,9 @@
         <notations>
           <slide number="1" type="stop"/>
         </notations>
-        <lyric number="1"><text>slide</text></lyric>
+        <lyric number="1">
+          <text>slide</text>
+        </lyric>
       </note>
     </measure>
     <!--=======================================================-->
@@ -204,7 +221,9 @@
         <notations>
           <slide line-type="solid" number="1" type="start">text</slide>
         </notations>
-        <lyric number="1"><text>solid</text></lyric>
+        <lyric number="1">
+          <text>solid</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -217,7 +236,9 @@
         <notations>
           <slide line-type="solid" number="1" type="stop"/>
         </notations>
-        <lyric number="1"><text>(+text)</text></lyric>
+        <lyric number="1">
+          <text>(+text)</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -230,7 +251,9 @@
         <notations>
           <slide line-type="dashed" number="1" type="start"/>
         </notations>
-        <lyric number="1"><text>dashed</text></lyric>
+        <lyric number="1">
+          <text>dashed</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -258,7 +281,9 @@
         <notations>
           <slide line-type="dotted" number="1" type="start"/>
         </notations>
-        <lyric number="1"><text>dotted</text></lyric>
+        <lyric number="1">
+          <text>dotted</text>
+        </lyric>
       </note>
       <note>
         <pitch>
@@ -283,7 +308,9 @@
         <notations>
           <slide line-type="wavy" number="1" type="start"/>
         </notations>
-        <lyric number="1"><text>wavy</text></lyric>
+        <lyric number="1">
+          <text>wavy</text>
+        </lyric>
       </note>
       <note>
         <pitch>

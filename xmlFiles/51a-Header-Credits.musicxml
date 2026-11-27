@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -59,68 +58,36 @@
   </defaults>
   <credit>
     <credit-type>page number</credit-type>
-    <credit-words default-x="40"
-                  default-y="630"
-                  font-size="12"
-                  valign="top">2</credit-words>
+    <credit-words default-x="40" default-y="630" font-size="12" valign="top">2</credit-words>
   </credit>
   <credit page="2">
     <credit-type>page number</credit-type>
-    <credit-words default-x="800"
-                  default-y="630"
-                  font-size="12"
-                  valign="top">2a</credit-words>
+    <credit-words default-x="800" default-y="630" font-size="12" valign="top">2a</credit-words>
   </credit>
   <credit>
     <credit-type>rights</credit-type>
-    <credit-words default-x="430"
-                  default-y="80"
-                  font-size="9"
-                  halign="center"
-                  justify="right"
-                  valign="bottom">The copyright comes here.</credit-words>
+    <credit-words default-x="430" default-y="80" font-size="9" halign="center" justify="right" valign="bottom">The copyright comes here.</credit-words>
   </credit>
   <credit>
     <credit-type>title</credit-type>
-    <credit-words default-x="430"
-                  default-y="440"
-                  font-size="24"
-                  justify="center"
-                  valign="middle"
-                  enclosure="rectangle">The </credit-words>
+    <credit-words default-x="430" default-y="440" font-size="24" justify="center" valign="middle" enclosure="rectangle">The </credit-words>
     <credit-words>Title</credit-words>
   </credit>
   <credit>
-    <credit-words default-x="430"
-                  default-y="360"
-                  font-size="14"
-                  halign="center"
-                  valign="middle">A subtitle without a type</credit-words>
+    <credit-words default-x="430" default-y="360" font-size="14" halign="center" valign="middle">A subtitle without a type</credit-words>
   </credit>
   <credit>
     <credit-type>foo</credit-type>
     <credit-type>bar</credit-type>
-    <credit-words default-x="430"
-                  default-y="600"
-                  font-size="12"
-                  font-style="italic"
-                  justify="center"
-                  valign="top">Two types (foo + bar)</credit-words>
+    <credit-words default-x="430" default-y="600" font-size="12" font-style="italic" justify="center" valign="top">Two types (foo + bar)</credit-words>
   </credit>
   <credit>
     <credit-type>composer</credit-type>
-    <credit-words default-x="780"
-                  default-y="280"
-                  font-size="10"
-                  justify="right"
-                  valign="middle">The Composer</credit-words>
+    <credit-words default-x="780" default-y="280" font-size="10" justify="right" valign="middle">The Composer</credit-words>
   </credit>
   <credit>
     <credit-type>lyricist</credit-type>
-    <credit-words default-x="80"
-                  default-y="280"
-                  font-size="10"
-                  valign="middle">The Lyricist</credit-words>
+    <credit-words default-x="80" default-y="280" font-size="10" valign="middle">The Lyricist</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -28,7 +27,6 @@
       <group-symbol default-x="-8">bracket</group-symbol>
       <group-barline>yes</group-barline>
     </part-group>
-
     <score-part id="P1">
       <part-name>Piccolo</part-name>
       <part-abbreviation>Picc.</part-abbreviation>
@@ -36,7 +34,6 @@
         <instrument-name>Piccolo</instrument-name>
       </score-instrument>
     </score-part>
-
     <part-group number="2" type="start">
       <group-name>Flute</group-name>
       <group-abbreviation>Fl.</group-abbreviation>
@@ -55,7 +52,6 @@
       </score-instrument>
     </score-part>
     <part-group number="2" type="stop"/>
-
     <score-part id="P3">
       <part-name>Oboe</part-name>
       <part-abbreviation>Ob.</part-abbreviation>
@@ -70,7 +66,6 @@
         <instrument-name>English Horn</instrument-name>
       </score-instrument>
     </score-part>
-
     <score-part id="P5">
       <part-name>Clarinet in Eb</part-name>
       <part-abbreviation>Eb Cl.</part-abbreviation>
@@ -78,7 +73,6 @@
         <instrument-name>Clarinet in Eb</instrument-name>
       </score-instrument>
     </score-part>
-
     <part-group number="2" type="start">
       <group-name>Clarinet in Bb</group-name>
       <group-abbreviation>Bb Cl.</group-abbreviation>
@@ -97,7 +91,6 @@
       </score-instrument>
     </score-part>
     <part-group number="2" type="stop"/>
-
     <score-part id="P7">
       <part-name>Bass Clarinet</part-name>
       <part-abbreviation>B. Cl.</part-abbreviation>
@@ -105,7 +98,6 @@
         <instrument-name>Bass Clarinet</instrument-name>
       </score-instrument>
     </score-part>
-
     <part-group number="2" type="start">
       <group-name>Bassoon</group-name>
       <group-abbreviation>Bsn.</group-abbreviation>
@@ -124,7 +116,6 @@
       </score-instrument>
     </score-part>
     <part-group number="2" type="stop"/>
-
     <score-part id="P9">
       <part-name>Contrabassoon</part-name>
       <part-abbreviation>C. Bn.</part-abbreviation>
@@ -133,12 +124,10 @@
       </score-instrument>
     </score-part>
     <part-group number="1" type="stop"/>
-
     <part-group number="1" type="start">
       <group-symbol default-x="-8">bracket</group-symbol>
       <group-barline>yes</group-barline>
     </part-group>
-
     <part-group number="2" type="start">
       <group-name>Horn in F</group-name>
       <group-abbreviation>F Hn.</group-abbreviation>
@@ -157,7 +146,6 @@
       </score-instrument>
     </score-part>
     <part-group number="2" type="stop"/>
-
     <part-group number="2" type="start">
       <group-name>Trumpet in C</group-name>
       <group-abbreviation>C Tpt.</group-abbreviation>
@@ -176,7 +164,6 @@
       </score-instrument>
     </score-part>
     <part-group number="2" type="stop"/>
-
     <part-group number="2" type="start">
       <group-name>Trombone</group-name>
       <group-abbreviation>Tbn.</group-abbreviation>
@@ -195,7 +182,6 @@
       </score-instrument>
     </score-part>
     <part-group number="2" type="stop"/>
-
     <score-part id="P16">
       <part-name>Tuba</part-name>
       <score-instrument id="P16-I1">
@@ -203,7 +189,6 @@
       </score-instrument>
     </score-part>
     <part-group number="1" type="stop"/>
-
     <score-part id="P17">
       <part-name>Timpani</part-name>
       <part-abbreviation>Timp.</part-abbreviation>
@@ -225,7 +210,6 @@
         <instrument-name>Harp</instrument-name>
       </score-instrument>
     </score-part>
-
     <part-group number="1" type="start">
       <group-symbol default-x="-8">bracket</group-symbol>
       <group-barline>no</group-barline>
@@ -238,12 +222,10 @@
       </score-instrument>
     </score-part>
     <part-group number="1" type="stop"/>
-
     <part-group number="1" type="start">
       <group-symbol default-x="-8">bracket</group-symbol>
       <group-barline>yes</group-barline>
     </part-group>
-
     <part-group number="2" type="start">
       <group-name>Violin</group-name>
       <group-abbreviation>Vln.</group-abbreviation>
@@ -262,7 +244,6 @@
       </score-instrument>
     </score-part>
     <part-group number="2" type="stop"/>
-
     <score-part id="P23">
       <part-name>Viola</part-name>
       <part-abbreviation>Vla.</part-abbreviation>
@@ -284,7 +265,6 @@
         <instrument-name>Contrabass</instrument-name>
       </score-instrument>
     </score-part>
-
     <part-group number="1" type="stop"/>
   </part-list>
   <!--=========================================================-->
@@ -1210,9 +1190,7 @@
           <beat-type>4</beat-type>
         </time>
         <staves>3</staves>
-        <part-symbol top-staff="1"
-                     bottom-staff="2"
-                     default-x="16">brace</part-symbol>
+        <part-symbol top-staff="1" bottom-staff="2" default-x="16">brace</part-symbol>
         <clef number="1">
           <sign>G</sign>
           <line>2</line>

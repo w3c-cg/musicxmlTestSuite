@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -11,7 +10,7 @@
   </identification>
   <part-list>
     <score-part id="P1">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
   </part-list>
   <!--=========================================================-->
@@ -42,19 +41,28 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -71,7 +79,10 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -80,13 +91,19 @@
     <!--=======================================================-->
     <measure number="2">
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -103,13 +120,19 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -118,7 +141,10 @@
     <!--=======================================================-->
     <measure number="3">
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -133,19 +159,28 @@
         </direction-type>
       </direction>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>

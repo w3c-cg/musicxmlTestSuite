@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="2.0">
   <movement-title>Wavy Line with no number but stop before start</movement-title>
   <identification>
@@ -14,7 +13,7 @@
   </identification>
   <part-list>
     <score-part id="P1">
-      <part-name></part-name>
+      <part-name/>
     </score-part>
   </part-list>
   <!--=========================================================-->
@@ -31,7 +30,7 @@
           <line>2</line>
         </clef>
       </attributes>
-    <!-- Ornaments:
+      <!-- Ornaments:
          trill-mark | turn | delayed-turn | inverted-turn |
          shake | wavy-line | mordent | inverted-mordent | 
          schleifer | tremolo | other-ornament), 
@@ -42,7 +41,8 @@
          -->
       <note>
         <pitch>
-          <step>C</step><octave>5</octave>
+          <step>C</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -52,11 +52,15 @@
             <wavy-line placement="below" type="start"/>
           </ornaments>
         </notations>
-        <lyric number="1"><syllabic>begin</syllabic><text>wavy</text></lyric>
+        <lyric number="1">
+          <syllabic>begin</syllabic>
+          <text>wavy</text>
+        </lyric>
       </note>
       <note>
         <pitch>
-          <step>C</step><octave>5</octave>
+          <step>C</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -67,11 +71,15 @@
             <wavy-line placement="below" type="start" number="1"/>
           </ornaments>
         </notations>
-        <lyric number="1"><syllabic>middle</syllabic><text>wavy</text></lyric>
+        <lyric number="1">
+          <syllabic>middle</syllabic>
+          <text>wavy</text>
+        </lyric>
       </note>
       <note>
         <pitch>
-          <step>C</step><octave>5</octave>
+          <step>C</step>
+          <octave>5</octave>
         </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -81,7 +89,10 @@
             <wavy-line placement="below" type="stop" number="1"/>
           </ornaments>
         </notations>
-        <lyric number="1"><syllabic>end</syllabic><text>line</text></lyric>
+        <lyric number="1">
+          <syllabic>end</syllabic>
+          <text>line</text>
+        </lyric>
       </note>
     </measure>
   </part>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN"
-                                "http://www.musicxml.org/dtds/partwise.dtd">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <identification>
     <miscellaneous>
@@ -56,7 +55,7 @@ overr.</display-text>
       </note>
     </measure>
     <measure number="2">
-      <print new-system="yes" />
+      <print new-system="yes"/>
       <note>
         <pitch>
           <step>C</step>
@@ -85,7 +84,7 @@ overr.</display-text>
       </note>
     </measure>
     <measure number="2">
-      <print new-system="yes" />
+      <print new-system="yes"/>
       <note>
         <pitch>
           <step>C</step>
